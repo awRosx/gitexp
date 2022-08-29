@@ -10,3 +10,4 @@
         }
     }
 echo math(16, 18, 17);
+echo 'New world';
